@@ -1,1 +1,1 @@
-# Hexlet - Pythin developer course tasks
+# Hexlet - Python developer course tasks

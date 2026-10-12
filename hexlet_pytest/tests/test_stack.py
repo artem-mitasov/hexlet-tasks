@@ -2,7 +2,7 @@ import pytest
 
 
 def test_stack():
-    stack = stack[]
+    stack = []
     stack.append("one")
     stack.append("two")
 
