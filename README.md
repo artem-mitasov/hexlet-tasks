@@ -1,1 +1,2 @@
 # Hexlet - Python developer course tasks
+[![hello](https://github.com/artem-mitasov/hexlet-tasks/actions/workflows/say_hello.yml/badge.svg)](https://github.com/artem-mitasov/hexlet-tasks/actions/workflows/say_hello.yml)
